@@ -11,9 +11,9 @@ Command | Explanation | Example
 !skip | Cast a vote to skip the currently playing song | N/A
 !playlist | Outputs the next three songs in the queue | N/A
 !nextsong | Outputs the next song in the queue | N/A
-!currentsong | Outputs the current song and a youtube link
-!volumeup | Adjusts the music volume up slightly)
-!volumedown | Adjusts the music volume down slightly)
+!currentsong | Outputs the current song and a youtube link | N/A
+!volumeup | Adjusts the music volume up slightly) | N/A
+!volumedown | Adjusts the music volume down slightly) | N/A
 
 ## SUBSCRIBER ONLY SCREEN ALERTS
 
