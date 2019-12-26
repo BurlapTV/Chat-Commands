@@ -1,4 +1,4 @@
-# (SOMEWHAT COMPREHENSIVE) LIST OF CHAT COMMANDS
+# (SOMEWHAT COMPREHENSIVE) LIST OF CHAT COMMANDS:
 
 ## Song & Media requests
 
@@ -53,7 +53,7 @@ Command | Explanation
 
 Command | Explanation | Example
 ------- | ------------| ------------------
-!points | Outputs how many points **you* have. | N/A
+!points | Outputs how many points *you* have. | N/A
 !pointsleader | Outputs the boys with the most BarappuKoin | N/A
 
 ## MISC COMMANDS:
