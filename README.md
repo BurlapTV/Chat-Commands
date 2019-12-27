@@ -6,7 +6,7 @@ All song and media requests are at streamer and moderator discretion. If your so
 
 Command | Explanation | Example
 ------- | ------------| ------------------
-!sr | This will add a song to the current queue | !sr https://www.youtube.com/watch?v=ET6657PH9gQ
+!sr | This will add a song to the current queue | !sr https://www.youtube.com/watch?v=ET6657PH9gQ **or** !sr ET6657PH9gQ
 !wrongsong | Removes the last song you added to the queue | N/A
 !skip | Cast a vote to skip the currently playing song | N/A
 !playlist | Outputs the next three songs in the queue | N/A
@@ -50,6 +50,8 @@ Command | Explanation
 !jump |Causes our character to jump
 
 ## BARAPPUKOIN
+
+It's my hot new crypto.
 
 Command | Explanation | Example
 ------- | ------------| ------------------
