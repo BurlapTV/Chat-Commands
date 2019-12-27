@@ -35,6 +35,7 @@ Command | Explanation
 !machinelearning |
 !oceanman |
 !peepolambo |
+!sega |
 !suck |
 
 ## SUBSCRIBER ONLY GAME INTERACTIONS:
@@ -51,7 +52,7 @@ Command | Explanation
 
 ## BARAPPUKOIN
 
-It's my hot new crypto.
+It's my hot new crypto. You earn this by being active in chat, watching the stream and through donating bits.
 
 Command | Explanation | Example
 ------- | ------------| ------------------
@@ -64,3 +65,5 @@ Command | Explanation
 --------| -----------
 !lurk | Lets everyone know you're getting cozy
 !uptime | Output stream uptime
+!roll | Rolls a random number from 1-100
+!toucan | It's a secret
