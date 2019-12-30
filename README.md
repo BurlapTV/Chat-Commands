@@ -55,8 +55,8 @@ Command | Explanation
 Command | Explanation | Example
 ------- | ------------| ------------------
 !Quote | Outputs a random quote from Burlap into chat. |
-!Quote NUMBER | Outputs a specific quote from Burlap into chat. | !Quote 11
-!Quote Add | Adds a death to our counter  | !Quote Add This is a quote
+!Quote NUMBER | Outputs a specific quote (by number) from Burlap into chat. | !Quote 11
+!Quote Add | Adds a quote from Burlap  | !Quote Add This is a quote
 
 
 ## BARAPPUKOIN:
