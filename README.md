@@ -7,15 +7,15 @@ All song and media requests are at streamer and moderator discretion. If your so
 Command | Explanation | Example
 ------- | ------------| ------------------
 !sr | This will add a song to the current queue | !sr https://www.youtube.com/watch?v=ET6657PH9gQ **or** !sr ET6657PH9gQ
-!wrongsong | Removes the last song you added to the queue | N/A
-!skip | Cast a vote to skip the currently playing song | N/A
-!playlist | Outputs the next three songs in the queue | N/A
-!nextsong | Outputs the next song in the queue | N/A
-!currentsong | Outputs the current song and a youtube link | N/A
-!volumeup | Adjusts the music volume up slightly) | N/A
-!volumedown | Adjusts the music volume down slightly) | N/A
+!wrongsong | Removes the last song you added to the queue |
+!skip | Cast a vote to skip the currently playing song |
+!playlist | Outputs the next three songs in the queue |
+!nextsong | Outputs the next song in the queue |
+!currentsong | Outputs the current song and a youtube link |
+!volumeup | Adjusts the music volume up slightly |
+!volumedown | Adjusts the music volume down slightly |
 
-## SUBSCRIBER ONLY SCREEN ALERTS
+## SUBSCRIBER ONLY SCREEN ALERTS & SFX
 
 These are generally only subscriber only. Most have a short cooldown (~60 seconds) & cost a small amount of BarappuKoin per use.
 
