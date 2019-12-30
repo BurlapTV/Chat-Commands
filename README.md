@@ -56,14 +56,15 @@ It's my hot new crypto. You earn this by being active in chat, watching the stre
 
 Command | Explanation | Example
 ------- | ------------| ------------------
-!points | Outputs how many points *you* have. | N/A
-!pointsleader | Outputs the boys with the most BarappuKoin | N/A
+!points | Outputs how many points *you* have. |
+!pointsleader | Outputs the boys with the most BarappuKoin |
 
 ## MISC COMMANDS:
 
 Command | Explanation
 --------| -----------
-!lurk | Lets everyone know you're getting cozy
+!lurk | Lets everyone know you're getting cozy and may not be active chatting
+!weather | Outputs the weather near Burlap
 !uptime | Output stream uptime
 !roll | Rolls a random number from 1-100
 !toucan | It's a secret
