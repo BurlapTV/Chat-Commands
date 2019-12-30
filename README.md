@@ -15,7 +15,7 @@ Command | Explanation | Example
 !volumeup | Adjusts the music volume up slightly |
 !volumedown | Adjusts the music volume down slightly |
 
-## SUBSCRIBER ONLY SCREEN ALERTS & SFX
+## SUBSCRIBER ONLY SCREEN ALERTS & SFX:
 
 These are generally only subscriber only. Most have a short cooldown (~60 seconds) & cost a small amount of BarappuKoin per use.
 
@@ -50,7 +50,16 @@ Command | Explanation
 !loadgame | Loads our game
 !jump |Causes our character to jump
 
-## BARAPPUKOIN
+## QUOTES:
+
+Command | Explanation | Example
+------- | ------------| ------------------
+!Quote | Outputs a random quote from Burlap into chat. |
+!Quote NUMBER | Outputs a specific quote from Burlap into chat. | !Quote 11
+!Quote Add | Adds a death to our counter  | !Quote Add This is a quote
+
+
+## BARAPPUKOIN:
 
 It's my hot new crypto. You earn this by being active in chat, watching the stream and through donating bits.
 
