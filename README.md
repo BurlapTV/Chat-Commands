@@ -6,7 +6,7 @@ All song and media requests are at streamer and moderator discretion. If your so
 
 Command | Explanation | Example
 ------- | ------------| ------------------
-!sr | This will add a song to the current queue | !sr TANUKI - BABYBABY <br> **or** !sr https://www.youtube.com/watch?v=ET6657PH9gQ <br> **or** !sr ET6657PH9gQ
+!sr | This will add a song to the current queue | !sr TANUKI - BABYBABY <br> **or**  <br> !sr https://www.youtube.com/watch?v=ET6657PH9gQ <br> **or** <br> !sr ET6657PH9gQ
 !wrongsong | Removes the last song you added to the queue |
 !skip | Cast a vote to skip the currently playing song |
 !playlist | Outputs the next three songs in the queue |
