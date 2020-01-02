@@ -24,6 +24,7 @@ Command | Explanation
 !elon |
 !bezos |
 !boomer |
+!doomer |
 !zoomer |
 !boys |
 !handrot |
