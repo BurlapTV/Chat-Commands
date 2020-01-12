@@ -22,8 +22,11 @@ These are generally only subscriber only. Most have a short cooldown (~60 second
 Command | Explanation
 --------| -----------
 !elon |
+!baka |
 !bezos |
 !boomer |
+!careful |
+!careful2 |
 !doomer |
 !zoomer |
 !boys |
@@ -34,6 +37,8 @@ Command | Explanation
 !fuck |
 !fuck1 |
 !howdy |
+!noticeme |
+!nyaa | 
 !machinelearning |
 !oceanman |
 !peepolambo |
