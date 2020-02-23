@@ -51,7 +51,7 @@ These are enabled on a per-game basis, some games have more commands & interacti
 
 Command | Explanation
 --------| -----------
-!deaths | Adds a death to our counter  
+!death | Adds a death to our counter  
 !crash | Adds a crash to our counter
 !savegame | Saves our game
 !loadgame | Loads our game
