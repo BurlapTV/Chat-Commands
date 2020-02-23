@@ -44,6 +44,8 @@ Command | Explanation
 !peepolambo |
 !sega |
 !suck |
+!praise |
+!glug |
 
 ## SUBSCRIBER ONLY GAME INTERACTIONS:
 
