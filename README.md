@@ -2,7 +2,7 @@
 
 ## Song & Media requests
 
-All song and media requests are at streamer and moderator discretion. If your song was seemingly skipped over or did not play it likely has embedded playing disabled, is age restricted, or was otherwise taken out of the queue.
+All song and media requests are at streamer and moderator discretion. If your song was seemingly skipped over or did not play it likely has embedded playing disabled, is age restricted, or was otherwise taken out of the queue. Also worth noting is that song requests are generally subscriber only.
 
 Command | Explanation | Example
 ------- | ------------| ------------------
